@@ -1,0 +1,10 @@
+Soccer Ball Recognition and Verification
+
+In this notebook we will explore the different techniques and technologies:
+
+1. Image pre-processing by Keras
+2. Utilizing an pre-trained model and a different subject (without transfer learning)
+3. Image Encoding
+4. Subject Verification
+5. Subject Recognition
+
