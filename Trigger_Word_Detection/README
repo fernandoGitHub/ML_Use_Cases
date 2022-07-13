@@ -1,0 +1,12 @@
+Trigger Word Detection
+
+In this notebook we are experimenting with the following techniques and technologies:
+
+1. Audio data handling
+2. Spectographs
+3. Using spectographs as feed for RNNs
+4. GRU and RNNs dual layer architecture
+5. Synthetizing audio training data
+6. Long training
+7. Overlaying audio streams
+8. Predicting trigger words among word-negatives on top of different backgrounds
